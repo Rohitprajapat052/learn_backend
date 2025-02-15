@@ -1,0 +1,16 @@
+{
+  "name": "learn-backend",
+  "version": "1.0.0",
+  "description": "Learning backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "rohitpipalki"
+  ],
+  "author": "rohit prajapat",
+  "license": "ISC"
+}
