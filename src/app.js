@@ -23,6 +23,12 @@ app.use(express.static("public"))
 //cookie parser use ki cookies pr curd operations kr pau. mere server se  user ki cookies access kr pau aur set kr pau 
 app.use(cookieParser())
 
+// import routes 
+import userRouter from "./routes/user.routes.js"
+
+app.use("/api/v1/users", userRouter)
+
+
 export {
     app
 }
