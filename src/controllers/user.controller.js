@@ -308,6 +308,9 @@ await User.findByIdAndUpdate(
     {new : true}
 ).select("-password")
 
+return res 
+.status(200)
+.json(new ApiResponse(200, user, "Avtar Image  Updated Successfully "))
 })
 
 
