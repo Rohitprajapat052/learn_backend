@@ -1,19 +1,33 @@
+# YouTube-Twitter Clone
 
-# Video Hosting Backend
+## Overview  
+This is a full-stack YouTube-Twitter hybrid platform that allows users to upload videos, post tweets, engage with content, and manage subscriptions. The project includes a robust backend for handling authentication, video management, and user interactions, along with a responsive frontend for seamless user experience.
 
-## Overview
-This project is a full-fledged backend system for a video hosting website similar to YouTube. It is built using modern backend technologies and follows best practices for authentication, security, and data management. The backend provides all the essential features required to run a video-sharing platform.
+## 🔥 Features  
 
-## Features
-- User Authentication (Signup, Login, Logout)
-- Secure Password Hashing (bcrypt)
-- Token-Based Authentication (JWT, Access & Refresh Tokens)
-- Video Upload & Storage
-- Like & Dislike System
-- Comment & Reply System
-- Subscription & Unsubscription
-- User Profile Management
-- Video Recommendations
-- History & Watch Later Functionality
-- Tweet Posting
-- Tweet Like System
+### Backend (Video Hosting & Tweet System)  
+- **User Authentication** – Signup, login, logout with JWT-based authentication (access & refresh tokens).  
+- **Secure Password Hashing** – Implemented using bcrypt.  
+- **Video Management** – Upload, edit, delete, search, sort, and paginate videos.  
+- **User Engagement** – Like/dislike videos, comment & reply, tweet posting, and tweet likes.  
+- **Subscription System** – Subscribe/unsubscribe to channels.  
+- **Profile & Watch History** – Manage user profiles, track history, and watch later functionality.  
+- **Video Recommendations** – Powered by MongoDB aggregation pipelines for optimized results.  
+
+### Frontend (React.js Interface)  
+- **User-Friendly UI** – Developed with React.js for a seamless and interactive experience.  
+- **Responsive Design** – Ensures optimal viewing on different devices.  
+- **API Integration** – Communicates efficiently with the backend to manage user actions.  
+
+## 🚀 Tech Stack  
+- **Backend** – Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt  
+- **Frontend** – React.js, Next.js  
+
+
+## 🔗 Important Links  
+- **Backend Repository:** [Video Hosting Backend](https://github.com/Rohitprajapat052/learn_fronted)  
+- **Live Project:** [YouTube-Twitter Clone](https://youtube-twitter.vercel.app/)  
+
+---
+
+ 
