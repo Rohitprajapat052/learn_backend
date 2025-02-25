@@ -25,8 +25,8 @@ This is a full-stack YouTube-Twitter hybrid platform that allows users to upload
 
 
 ## 🔗 Important Links  
-- **Backend Repository:** [Video Hosting Backend](https://github.com/Rohitprajapat052/learn_fronted)  
-- **Live Project:** [YouTube-Twitter Clone](https://youtube-twitter.vercel.app/)  
+- **Frontend Repository Link:** [Frontend Link](https://github.com/Rohitprajapat052/learn_fronted)  
+- **Live Project:** [YouTube-Twitter App](https://youtube-twitter.vercel.app/)  
 
 ---
 
